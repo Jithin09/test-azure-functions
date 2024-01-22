@@ -1,7 +1,7 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "AzureWebJobsStorage": "",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=strgtestgithubactions;AccountKey=8DABQUCAvoiDwAN/9tDTIfHT0naGEfBN+VfANsd7jY6AqMEoHBMpmXp0sBvTFsPmIO6Xe+Jew13w+ASt6c7uVw==;EndpointSuffix=core.windows.net",
     "FUNCTIONS_WORKER_RUNTIME": "python",
     "AzureWebJobsFeatureFlags": "EnableWorkerIndexing"
   }
